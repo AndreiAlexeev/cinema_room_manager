@@ -1,5 +1,5 @@
 # cinema_room_manager 🎦
-An application for sell tickets, check available seats, view sales statistics in cinema.  
+An application to sell tickets, check available seats, view sales statistics in the cinema.  
 
 ## 📘 Features:
 - Show available seats in the cinema hall.
@@ -30,9 +30,9 @@ Enter the number of seats in each row:
 3. Statistics
 0. Exit
 ```
-- Follow the prompts tpo perform the desired actions.
-- The seating chart udates when tickets are purchased (booked seats are marked with **'B'**).
+- Follow the prompts to perform the desired actions.
+- The seating chart updates when tickets are purchased (booked seats are marked with **'B'**).
 - The program ensures no duplicate ticket purchases and validates inputs.
 ## 📖 License:
 Licensed under the MIT License.
-Created ass part of **[Hyperskill](https://hyperskill.org)**.
+Created as part of **[Hyperskill](https://hyperskill.org)**.
